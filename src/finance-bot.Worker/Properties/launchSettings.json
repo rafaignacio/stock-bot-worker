@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "finance_bot.Worker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
